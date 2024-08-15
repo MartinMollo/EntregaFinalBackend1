@@ -30,7 +30,7 @@ function AddProduct(product) {
         return;
     }
     const productItem = document.createElement('div');
-    productItem.className = 'col-md-4';
+    productItem.className = 'col-md-3';
     productItem.id = `product-${product._id}`;
     productItem.innerHTML = `
         <div class="shadow-lg p-3 mb-5 bg-body-tertiary rounded">
