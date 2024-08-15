@@ -15,15 +15,15 @@ PRODUCTS
 ![imagen](https://github.com/user-attachments/assets/83e4c6ac-3196-4052-a583-8c8450ee1614)
 
 -POST
---localhost:8080/api/products
+--localhost:8080/api/products/66bbc192d614bcd6a725a1b6
 ![imagen](https://github.com/user-attachments/assets/5191abcd-3cda-4d86-9ec0-5f3752a88802)
 
 
 -PUT
---localhost:8080/api/products/
+--localhost:8080/api/products/66bbc192d614bcd6a725a1b6
 ![put_producto](https://github.com/user-attachments/assets/9a2cb11b-1015-4ec4-9571-013fd83ce224)
 -DEL
---localhost:8080/api/products/
+--localhost:8080/api/products/66bbc192d614bcd6a725a1b6
 ![imagen](https://github.com/user-attachments/assets/4f4a27b8-3ed5-4d44-ab67-fe364aff8886)
 
 
