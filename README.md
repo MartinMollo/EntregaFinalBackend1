@@ -20,10 +20,10 @@ PRODUCTS
 
 
 -PUT
---localhost:8080/api/products/7
+--localhost:8080/api/products/
 ![put_producto](https://github.com/user-attachments/assets/9a2cb11b-1015-4ec4-9571-013fd83ce224)
 -DEL
---localhost:8080/api/products/7
+--localhost:8080/api/products/
 ![imagen](https://github.com/user-attachments/assets/4f4a27b8-3ed5-4d44-ab67-fe364aff8886)
 
 
